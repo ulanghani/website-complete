@@ -1,0 +1,40 @@
+table{
+	margin-left: 10px;
+	
+}
+h4{
+	color:#17856A ;
+}
+th{
+	font-size:30px;
+	font-family:serif;
+}
+body{
+	background-color: cadetblue;
+}
+.nav-item{
+
+	text-align: center;
+}
+#navbarNav{
+	width: 100%;
+	text-align: center;
+
+justify-content:space-between;
+}
+.navbar-nav{
+	justify-content:center;
+	
+	
+	width: 100%;
+}
+.icons{
+	color:darkgray;
+	justify-content:center;
+	width: 10%;
+  
+}
+#icon{
+
+	padding-left:10px;
+}

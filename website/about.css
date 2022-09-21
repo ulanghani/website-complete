@@ -1,0 +1,42 @@
+ .image{
+ width: 90%;
+ 	height:100%;
+ }
+
+ .row{
+
+ display: flex;
+ 
+}
+
+td{
+	margin: 1px;
+	font-size: 20px;
+padding:7px;
+}
+.nav-item{
+
+	text-align: center;
+}
+#navbarNav{
+	width: 100%;
+	text-align: center;
+
+justify-content:space-between;
+}
+.navbar-nav{
+	justify-content:center;
+	
+	
+	width: 100%;
+}
+.icons{
+	color:darkgray;
+	justify-content:center;
+	width: 10%;
+  
+}
+#icon{
+
+	padding-left:10px;
+}

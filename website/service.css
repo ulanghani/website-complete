@@ -1,0 +1,41 @@
+p{
+	color: gray;
+}
+td{
+	text-align: center;
+/*	align-items: center;
+	justify-content: center;*/
+	width:30%;
+	height: 20%;
+	border: 2px solid whitesmoke;
+}
+tr{
+	align-items: center;
+	justify-content: center;
+}
+.nav-item{
+
+	text-align: center;
+}
+#navbarNav{
+	width: 100%;
+	text-align: center;
+
+justify-content:space-between;
+}
+.navbar-nav{
+	justify-content:center;
+	
+	
+	width: 100%;
+}
+.icons{
+	color:darkgray;
+	justify-content:center;
+	width: 10%;
+  
+}
+#icon{
+
+	padding-left:10px;
+}
